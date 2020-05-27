@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.decoration{
+    display: flex;
+    font-size: 300px;
+    justify-content: center;
+}
+.yellow{
+    color:yellow;
+}
+.orange{
+    color:orange;
+}
+.golden{
+    color:rgb(240, 207, 60);
+}
+.result{
+    margin-left: 640px;
+    width:20%;
+    text-align: center;
+    border:2px solid black;
+}
+.result h1{
+    color:white;
+}
